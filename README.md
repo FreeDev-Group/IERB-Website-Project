@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="logo.png" alt="IERB logo" width="200">
+</p>
+
 # IERB Website Project Repository
 
 Welcome to the official GitHub repository for the **Institut Évangélique Réformé de Bukavu (IERB)** website project. This project is developed by **FREEDEV**.
